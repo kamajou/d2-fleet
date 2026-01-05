@@ -42,3 +42,4 @@ spec:
                 subject: ^https://github\.com/kamajou/d2-fleet/\.github/workflows/push-artifact\.yaml@refs/heads/main$
 
         # subject: ^https://github\.com/controlplaneio-fluxcd/d2-fleet/\.github/workflows/push-artifact\.yaml@refs/heads/main$
+#
